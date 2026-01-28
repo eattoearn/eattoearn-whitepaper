@@ -1,12 +1,12 @@
 # Allocation Structure
 
-### 🔢 Total Supply
+### Total Supply
 
 **5,000,000,000 Tokens (100%)**
 
-### 📊 Token Allocation Breakdown
+### Token Allocation Breakdown
 
-⏳ Aggregate Monthly Unlock Schedule
+Aggregate Monthly Unlock Schedule
 
 _(All buckets combined — based on 5B supply)_
 
