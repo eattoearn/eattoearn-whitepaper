@@ -6,4 +6,18 @@ The token economy is structured to prioritize community rewards, ecosystem growt
 \
 he Eat2Earn token economy is designed to support long-term participation, fair distribution, and sustainable growth. The token is not the product itself, but an **extension of the reward and ownership layer** that aligns users, the ecosystem, and future partners.
 
-From the beginning, the tokenomics model prioritizes **real usage over speculation**, ensuring that value flows to users who actively participate rather than to short-term actors.
+From the beginning, the tokenomics model prioritizes **real usage over speculation**, ensuring that value flows to users who actively participate rather than to short-term actors.<br>
+
+### Token Utility (Use Cases)
+
+The Eat2Earn token is designed to power real usage, align incentives, and reward everyday behavior.
+
+**Primary utilities include:**
+
+* Rewards for scanning food bills
+* XP & level-based incentives
+* Gaming & spin rewards
+* Ecosystem participation
+* Governance (future)
+* Liquidity & market operations
+* Partner and merchant incentives
